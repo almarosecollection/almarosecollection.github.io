@@ -3,7 +3,7 @@ body {
   margin: 0 auto;
   max-width: 600px;
   background: #232323;
-  background-image: ("/images/Almatwo.jpg");
+  background-image: url("/images/Almatwo.jpg");
 }
 div {
   height: 200px;
